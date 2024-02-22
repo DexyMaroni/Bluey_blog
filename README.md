@@ -5,4 +5,5 @@
 Author: Divine Peter
 
 Bluey Blog is a blog application that grants its users the opportunity to share their opinions or thought by making posts.
+To be able to use the app one has to register and login to access its functions.
 
