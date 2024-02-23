@@ -15,27 +15,27 @@ Bluey Blog is an application where users can create and edit profiles, as well a
 As I conclude the foundation stage at African Leadership Academy, I embarked on building a portfolio project of my choosing. The three weeks spent on this project have been both enjoyable and educational.
 
 ## Meet the Team:
-### Divine Peter - A mechanical engineer with a passion for coding, serving as a valuable software engineer on the project.
+### Divine Peter ([https://www.linkedin.com/in/divine-inyang-5165b0247?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqsPOCRTBRoaakidNj%2FXQXg%3D%3D]) - A mechanical engineer with a passion for coding, serving as a valuable software engineer on the project.
 
-##Blog Post:
+## Blog Post:
 
- **Divine Peter** [https://www.linkedin.com/in/divine-inyang-5165b0247?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqsPOCRTBRoaakidNj%2FXQXg%3D%3D](https://www.linkedin.com/posts/divine-inyang-5165b0247_ever-dreamed-of-building-your-very-own-application-activity-7166860783228805120-X8Hh?utm_source=share&utm_medium=member_desktop)
+ **Divine's Post** (https://www.linkedin.com/posts/divine-inyang-5165b0247_ever-dreamed-of-building-your-very-own-application-activity-7166860783228805120-X8Hh?utm_source=share&utm_medium=member_desktop)
 
-Installation:
+## Installation:
 As the application is not yet deployed, it is recommended to have a Python IDE installed, preferably Visual Studio Code, along with Python itself. To get started:
 1. Clone the repository
 2. Install the dependencies listed in the requirements.txt file
 3. You are now ready to post on the application.
 
-Technology:
+## Technology:
 The application is built entirely with the Python framework Flask, along with its extensions. Key extensions such as Bcrypt, its-dangerous, and Werkzeug play vital roles in ensuring the security of the application. The database is constructed using the Flask SQLAlchemy extension.
 
-Frontend Technology:
+## Frontend Technology:
 To achieve a visually appealing and user-friendly interface, CSS, Bootstrap, HTML, and JavaScript were employed.
 
-Licensing:
+## Licensing:
 
-MIT License
+### MIT License
 
 Copyright (c) 2024 Divine Peter
 
@@ -57,5 +57,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-##Acknowledgement:
+## Acknowledgement:
 I would like to express my gratitude to the Almighty God for making this project a success. Additionally, I extend my thanks to ALX and its mentors for their unwavering support and guidance. Special appreciation is reserved for my family, friends, and Corey Schafer, whose YouTube videos have been invaluable.
