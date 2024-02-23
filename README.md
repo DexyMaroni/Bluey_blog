@@ -2,20 +2,20 @@
 
 ![fea3](https://github.com/DexyMaroni/Bluey_blog_Application/assets/106749955/e6b0d109-8076-4b34-81ec-00e7e5f1a9c6)
 
-##Introduction
+## Introduction
 
-##Project Overview:
+## Project Overview:
 Bluey Blog is an application where users can create and edit profiles, as well as create posts on their favorite topics with the ability to update and delete them. Its interface is designed to be simple and user-friendly, and users can trust that their data is encrypted for security.
 
-##Additional features include:
+### Additional features include:
 - Quick and easy password recovery
 - Post categorization from other users
 
-Context:
+## Context:
 As I conclude the foundation stage at African Leadership Academy, I embarked on building a portfolio project of my choosing. The three weeks spent on this project have been both enjoyable and educational.
 
-Meet the Team:
-Divine Peter - A mechanical engineer with a passion for coding, serving as a valuable software engineer on the project.
+## Meet the Team:
+### Divine Peter - A mechanical engineer with a passion for coding, serving as a valuable software engineer on the project.
 
 ##Blog Post:
 
